@@ -4,8 +4,8 @@
     </a>
 </div>
 <h1 align="center">Dark Castle Theme for     
-    <a href="https://example.com" target="_blank">
-    [Example Platform]
+    <a href="https://en.wikipedia.org/wiki/Terminal_(macOS)" target="_blank">
+    Terminal.app
     </a>
 </h1>
 <p align="center">
