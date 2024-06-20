@@ -3,7 +3,7 @@
         <img src="./docs/images/icon.png" width="250" height="250"/>
     </a>
 </div>
-<h1 align="center">Dark Castle Theme for     
+<h1 align="center">Dark Castle for     
     <a href="https://en.wikipedia.org/wiki/Terminal_(macOS)" target="_blank">
     Terminal.app
     </a>
