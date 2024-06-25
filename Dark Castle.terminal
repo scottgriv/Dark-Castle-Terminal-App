@@ -163,6 +163,8 @@
 	Y3QIERokKTI3SUxRU1ddZGp3fp2foaaxusLFAAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAA
 	AAAAAAAAAM4=
 	</data>
+	<key>DisableANSIColor</key>
+	<false/>
 	<key>Font</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
@@ -202,7 +204,7 @@
 	AAAAAAAAAM4=
 	</data>
 	<key>UseBrightBold</key>
-	<true/>
+	<false/>
 	<key>name</key>
 	<string>Dark Castle</string>
 	<key>type</key>
