@@ -204,7 +204,7 @@
 	AAAAAAAAAM4=
 	</data>
 	<key>UseBrightBold</key>
-	<false/>
+	<true/>
 	<key>name</key>
 	<string>Dark Castle</string>
 	<key>type</key>
